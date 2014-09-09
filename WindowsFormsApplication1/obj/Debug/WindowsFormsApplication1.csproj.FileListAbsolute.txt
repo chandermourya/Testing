@@ -1,0 +1,16 @@
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\Testing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\Testing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Geuser\Desktop\TEST\WindowsFormsApplication1\Testing\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
